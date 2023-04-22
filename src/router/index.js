@@ -7,11 +7,11 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: `/`,
+    path: `/game`,
     component: GamePage
   },
   {
-    path: `/login`,
+    path: `/`,
     component: LoginPage
   }
 
